@@ -1,0 +1,14 @@
+C:\Users\braia\Desktop\C#\TriquiDesafio\TriquiDesafio\bin\Debug\net8.0\TriquiDesafio.exe
+C:\Users\braia\Desktop\C#\TriquiDesafio\TriquiDesafio\bin\Debug\net8.0\TriquiDesafio.deps.json
+C:\Users\braia\Desktop\C#\TriquiDesafio\TriquiDesafio\bin\Debug\net8.0\TriquiDesafio.runtimeconfig.json
+C:\Users\braia\Desktop\C#\TriquiDesafio\TriquiDesafio\bin\Debug\net8.0\TriquiDesafio.dll
+C:\Users\braia\Desktop\C#\TriquiDesafio\TriquiDesafio\bin\Debug\net8.0\TriquiDesafio.pdb
+C:\Users\braia\Desktop\C#\TriquiDesafio\TriquiDesafio\obj\Debug\net8.0\TriquiDesafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braia\Desktop\C#\TriquiDesafio\TriquiDesafio\obj\Debug\net8.0\TriquiDesafio.AssemblyInfoInputs.cache
+C:\Users\braia\Desktop\C#\TriquiDesafio\TriquiDesafio\obj\Debug\net8.0\TriquiDesafio.AssemblyInfo.cs
+C:\Users\braia\Desktop\C#\TriquiDesafio\TriquiDesafio\obj\Debug\net8.0\TriquiDesafio.csproj.CoreCompileInputs.cache
+C:\Users\braia\Desktop\C#\TriquiDesafio\TriquiDesafio\obj\Debug\net8.0\TriquiDesafio.dll
+C:\Users\braia\Desktop\C#\TriquiDesafio\TriquiDesafio\obj\Debug\net8.0\refint\TriquiDesafio.dll
+C:\Users\braia\Desktop\C#\TriquiDesafio\TriquiDesafio\obj\Debug\net8.0\TriquiDesafio.pdb
+C:\Users\braia\Desktop\C#\TriquiDesafio\TriquiDesafio\obj\Debug\net8.0\TriquiDesafio.genruntimeconfig.cache
+C:\Users\braia\Desktop\C#\TriquiDesafio\TriquiDesafio\obj\Debug\net8.0\ref\TriquiDesafio.dll

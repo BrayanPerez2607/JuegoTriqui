@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriquiDesafio", "TriquiDesafio\TriquiDesafio.csproj", "{FFB423BE-47B9-49FB-B8B6-65C1403B84CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFB423BE-47B9-49FB-B8B6-65C1403B84CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFB423BE-47B9-49FB-B8B6-65C1403B84CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFB423BE-47B9-49FB-B8B6-65C1403B84CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFB423BE-47B9-49FB-B8B6-65C1403B84CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBB01E4B-DD6B-4729-8E37-0F8D83B7F486}
+	EndGlobalSection
+EndGlobal
